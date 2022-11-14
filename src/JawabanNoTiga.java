@@ -23,7 +23,7 @@ public class JawabanNoTiga {
         int busRegularStaff = 0;
         int busStaff = 0;
 
-        for (int i = 0; i < daftarNik.length; i++) {
+        for (int i= 0; i< daftarNik.length; i++) {
             String nik = daftarNik[i];
             char codeNik = daftarNik[i].charAt(0);
 
@@ -38,12 +38,14 @@ public class JawabanNoTiga {
             } else if (codeNik == 'P') {
                 busStaff++;
             }
+
+        }
             System.out.println("Jumlah : ");
             System.out.println("|| Bus Top Level = " +busTopLevel+ " || Bus Middle Level = " +busMiddleLevel+ " || Bus Regular Staff = " + busRegularStaff+ " || Bus Staff = " +busStaff + " ||");
         }
 
 
-        } public static void pilihBus(String nik, char codeNik) {
+         public static void pilihBus(String nik, char codeNik) {
         switch(codeNik) {
             case 'C' :
                 System.out.println("Karyawan " + nik + " masuk ke Bus 01-TopLevel");
