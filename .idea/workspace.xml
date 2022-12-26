@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5083764-9cd4-47d7-bc4a-bfe3f5433c02" name="Changes" comment="ok" />
+    <list default="true" id="f5083764-9cd4-47d7-bc4a-bfe3f5433c02" name="Changes" comment="ok lagi">
+      <change afterPath="$PROJECT_DIR$/src/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biskota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +38,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JawabanNoTiga">
+    <configuration name="I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <module name="UTS1E" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JawabanNoTiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JawabanNoTiga" />
       <module name="UTS1E" />
@@ -40,8 +52,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.I" />
+      <item itemvalue="Application.JawabanNoTiga" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I" />
         <item itemvalue="Application.JawabanNoTiga" />
       </list>
     </recent_temporary>
@@ -118,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668430803575</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ok lagi">
+      <created>1668431074005</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668431074005</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="ok lagi" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok lagi" />
   </component>
 </project>
